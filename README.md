@@ -1,4 +1,4 @@
-# Barbearia Alura
+# Barbearia Alura💈
 
 Projeto para Estudos 💻
 
